@@ -3,7 +3,8 @@
 ## Projeto 2
 
 ### Integrantes
-
+Paulo Henrique de Lima Silva, 10418283
+Pedro Henrique Miranda Barbosa, 10417289
 
 ### Este repositório contém
 
