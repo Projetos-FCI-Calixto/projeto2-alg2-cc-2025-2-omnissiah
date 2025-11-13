@@ -120,7 +120,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    // Ativa modo manual
+    // Ativa modo manual.
     imagem = ler_manual(&largura, &altura);
 
     printf("\nResultado da codificação:\n");
